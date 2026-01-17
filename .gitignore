@@ -1,0 +1,22 @@
+# SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+
+# Temp files
+~$*
+*.tmp
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
