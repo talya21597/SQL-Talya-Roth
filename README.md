@@ -295,4 +295,3 @@ SQL-Logical-Interview-Talya-Roth/
 - Recursive CTEs למעבר חוזר
 - Set Operations להשוואת קבוצות נתונים
 
-טליה רות | 215970450
